@@ -1,0 +1,11 @@
+2,)
+host ip:10.0.13.1
+vitrual gép ip:10.0.64.15
+virtual gép mac-cím:255.255.0.0
+
+5,)
+
+ansible version száma 2.7.7
+
+7,)
+https://github.com/bulikbarnabas/feladat-megoldasok.git
